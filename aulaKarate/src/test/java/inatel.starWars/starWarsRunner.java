@@ -1,4 +1,4 @@
-package inatel.starwars.users;
+package inatel.starwars;
 
 import com.intuit.karate.junit5.Karate;
 
